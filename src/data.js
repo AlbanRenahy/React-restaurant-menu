@@ -52,7 +52,7 @@ const menu = [
   {
     id: 7,
     title: 'débordement de bacon',
-    category: 'petit déjeuner',
+    category: 'petit-déjeuner',
     price: 8.99,
     img: './images/item-7.jpeg',
     desc: `Vaudrait mieux le laisser vivre pour faire rougir toute la chrétienté de garçon plus discret ! `,

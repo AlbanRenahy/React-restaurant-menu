@@ -217,6 +217,16 @@ Menu
   padding-top: 1rem;
 }
 
+.heart-icon{
+  display: inline-block;
+  bottom: 0;
+  transform: translateY(20%);
+}
+
+.footer {
+  text-align: center
+}
+
 @media screen and (min-width: 768px) {
   .menu-item {
     grid-template-columns: 225px 1fr;
